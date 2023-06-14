@@ -10,6 +10,7 @@
       <outline text="Apache Infrastructure Website - blog" type="rss" xmlUrl="https://infra.apache.org/feeds/blog.atom.xml" htmlUrl="https://infra.apache.org/" description=""/>
       <outline text="Apache Foundation Blog " type="rss" xmlUrl="https://news.apache.org/feed" htmlUrl="https://news.apache.org/" description="Foundation Blog"/>
       <outline text="Apache Airflow Blog " type="rss" xmlUrl="https://airflow.apache.org/blog/index.xml" htmlUrl="https://airflow.apache.org/" description="Airflow Blog"/>
+      <outline text="Apache APIsix Blog " type="rss" xmlUrl="https://apisix.apache.org/blog/rss.xml" htmlUrl="https://apisix.apache.org/" description="APIsix Blog"/>
     </outline>
   </body>
 </opml>
