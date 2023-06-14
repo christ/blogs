@@ -8,6 +8,7 @@
     <outline text="Uncategorized">
       <outline text="Apache CloudStack Blog" type="rss" xmlUrl="https://cloudstack.apache.org/blog/atom.xml" htmlUrl="https://cloudstack.apache.org/blog" description="Apache CloudStack Blog"/>
       <outline text="Apache Infrastructure Website - blog" type="rss" xmlUrl="https://infra.apache.org/feeds/blog.atom.xml" htmlUrl="https://infra.apache.org/" description=""/>
+      <outline text="Apache Foundation Blog " type="rss" xmlUrl="https://news.apache.org/feed" htmlUrl="https://news.apache.org/" description="Foundation Blog"/>
     </outline>
   </body>
 </opml>
