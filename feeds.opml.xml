@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Wed, 14 Jun 2023 15:03:47 -0400</dateCreated>
+  </head>
+  <body>
+    <outline text="Uncategorized">
+      <outline text="Apache CloudStack Blog" type="rss" xmlUrl="https://cloudstack.apache.org/blog/atom.xml" htmlUrl="https://cloudstack.apache.org/blog" description="Apache CloudStack Blog"/>
+      <outline text="Apache Infrastructure Website - blog" type="rss" xmlUrl="https://infra.apache.org/feeds/blog.atom.xml" htmlUrl="https://infra.apache.org/" description=""/>
+    </outline>
+  </body>
+</opml>
