@@ -11,6 +11,7 @@
       <outline text="Apache Foundation Blog " type="rss" xmlUrl="https://news.apache.org/feed" htmlUrl="https://news.apache.org/" description="Foundation Blog"/>
       <outline text="Apache Airflow Blog " type="rss" xmlUrl="https://airflow.apache.org/blog/index.xml" htmlUrl="https://airflow.apache.org/" description="Airflow Blog"/>
       <outline text="Apache APIsix Blog " type="rss" xmlUrl="https://apisix.apache.org/blog/rss.xml" htmlUrl="https://apisix.apache.org/" description="APIsix Blog"/>
+      <outline text="" type="rss" xmlUrl="https://skywalking.apache.org/blog/index.xml"/>
     </outline>
   </body>
 </opml>
