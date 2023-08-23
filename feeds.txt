@@ -1,0 +1,2 @@
+https://news.apache.org/feed,
+https://airflow.apache.org/blog/index.xml
